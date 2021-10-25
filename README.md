@@ -158,3 +158,13 @@ for i,j,k in zip(Krgcl, ng, linestyle):
 
 
 ```
+
+
+
+
+&nbsp; 
+
+
+![alt text](https://github.com/MouinAlmasoodi/Interactive_Relative_Permeability/blob/main/Rel_Perm.gif?raw=true)
+
+
