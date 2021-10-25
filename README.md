@@ -1,5 +1,7 @@
 # Interactive Relative Permeability
-Create Corey relative perm curves, interactive gas relative perm parameters, prepare tables for CMG and SLB reservoir simulators
+Creates Corey relative perm curves, 
+interactive gas relative perm parameters, 
+and prepare tables for CMG and SLB reservoir simulators.
 
 
 ```python
